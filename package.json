@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://ТВОЙ-ЛОГИН.github.io/todo-manager",
+  "homepage": "https://github.com/rydolph/todo-manager",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
